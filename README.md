@@ -10,3 +10,16 @@ Skills and Experience:
 * ⚡ CCNA
 * 🤖RHCSA
 * 🔐Cyber Security 
+
+- 🌱 I’m currently learning Windows Development  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/DnyaneshwarIT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/dnyaneshwarit/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/DnyaneshwarIT)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/DnyaneshwarIT&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/DnyaneshwarIT)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/DnyaneshwarIT)  
