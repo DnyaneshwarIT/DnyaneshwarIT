@@ -7,7 +7,7 @@
 
 
 <h2>:busts_in_silhouette: How to reach me</h2>
-<a href="https://github.com/Carol42">
+<a href="https://github.com/DnyaneshwarIT">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@DnyaneshwarIT">
 </a>
 <a href="https://www.linkedin.com/in/dnyaneshwarit/">
@@ -100,7 +100,7 @@
 <details>
 <summary>Contribution Graph</summary>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="github activity graph" src="https://carol42-activity-graph.herokuapp.com/graph?username=Carol42&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
+    <img alt="github activity graph" src="[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DnyaneshwarIT&bg_color=0a0005&color=35d016&line=db14b0&point=19da0b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)">
 </a>
 </details>
 <details>
