@@ -1,5 +1,5 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/DnyaneshwarIT/DnyaneshwarIT/blob/main/assets/header.png"></div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Dnyaneshwar Patil;Computer+Programmer+;Mathematical Artist;Indian+Backtend+Dev;!! Knowledge+is+interrelated !!" alt="Computer Engineering Student, Indian back-end developer, !! Knowledge+is+interrelated !!"></a>
@@ -117,7 +117,7 @@
 </div>
 </details>
 
-<img alt="github contribution snake animation" src="C:\Users\Dnyaneshwar\Downloads\Profile\Dnyan\assets\snake.svg">
+<img alt="github contribution snake animation" src="https://github.com/DnyaneshwarIT/DnyaneshwarIT/blob/main/assets/snake.svg">
 
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
@@ -129,4 +129,4 @@
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
+<div align="center" ><img alt="" width="100%" src="https://github.com/DnyaneshwarIT/DnyaneshwarIT/blob/main/assets/footer.png"></div>
